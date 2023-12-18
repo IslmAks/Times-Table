@@ -1,0 +1,8 @@
+E:\Visual Studio Kodları\Times Table\Times Table\bin\Debug\Times Table.exe.config
+E:\Visual Studio Kodları\Times Table\Times Table\bin\Debug\Times Table.exe
+E:\Visual Studio Kodları\Times Table\Times Table\bin\Debug\Times Table.pdb
+E:\Visual Studio Kodları\Times Table\Times Table\obj\Debug\Times Table.csproj.AssemblyReference.cache
+E:\Visual Studio Kodları\Times Table\Times Table\obj\Debug\Times Table.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Kodları\Times Table\Times Table\obj\Debug\Times Table.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kodları\Times Table\Times Table\obj\Debug\Times Table.exe
+E:\Visual Studio Kodları\Times Table\Times Table\obj\Debug\Times Table.pdb
